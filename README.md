@@ -8,5 +8,7 @@
 
 ## Running the code
 SML_GA.py : Hyperparameters Optimization with PGA
+
 SML_main.py : Implementation of Attentional Grid LSTM model
+
 GP.py ： Multivariate Gaussian Model for Classification and Ensemble Learning by Voting MechanismHyperparameters Optimization with PGA
