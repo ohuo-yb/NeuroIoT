@@ -1,0 +1,2 @@
+iotlab-experiment submit -d 30 -l grenoble,m3,95+96+100-102,sensors-collecting.iotlab-m3
+iotlab-experiment submit -d 30 -l lille,m3,29+30+47+48+65+31,sensors-collecting.iotlab-m3
